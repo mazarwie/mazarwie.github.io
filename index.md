@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: Precious Metals Exportation Project
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Since 2021, MAM has connected industries to high-value mining raw materials through trusted supply, expert logistics, and specialized consultancy.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Precious Metals Exportation Project.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+From mine to market — expert solutions in precious materials and logistics.
