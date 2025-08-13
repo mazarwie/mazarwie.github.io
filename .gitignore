@@ -1,22 +1,25 @@
 # NPM
-node_modules
+node_modules/
 npm-debug.log
 
 # Jekyll
-_site
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+# Ruby & Bundler
+.bundle/
+vendor/
 Gemfile.lock
 **/Gemfile.lock
 
 # Temporary files
-tmp
+tmp/
 .DS_Store
 Desktop.ini
 ._*
 Thumbs.db
 .Spotlight-V100
 .Trashes
-.idea
+.idea/
