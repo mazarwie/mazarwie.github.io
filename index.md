@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Precious Metals Exportation Project.
+# Manufactured Advanced Materials (MAM) SAS
 
 From mine to market — expert solutions in precious materials and logistics.
